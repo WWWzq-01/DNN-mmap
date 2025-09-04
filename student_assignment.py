@@ -2,7 +2,10 @@
 
 """
 学生作业：实现Memory-Mapped数据集
-
+执行：
+```
+python student_assignment.py
+```
 🎯 作业目标：
 基于传统的TraditionalDataset实现，创建一个内存友好的MmapDataset类
 
